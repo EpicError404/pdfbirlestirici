@@ -1,0 +1,4 @@
+customtkinter
+pypdf
+PyMuPDF
+pyinstaller
